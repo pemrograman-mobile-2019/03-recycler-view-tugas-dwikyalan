@@ -1,8 +1,7 @@
 package com.example.win10.recyclerview.modals;
 
 import java.util.ArrayList;
-
-public class Contact {
+public class Contact  {
     private String mNama;
     private Boolean mOnline;
 
