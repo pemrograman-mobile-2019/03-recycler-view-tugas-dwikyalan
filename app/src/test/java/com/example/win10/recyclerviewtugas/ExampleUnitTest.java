@@ -1,4 +1,4 @@
-package com.example.win10.recyclerview;
+package com.example.win10.recyclerviewtugas;
 
 import org.junit.Test;
 
