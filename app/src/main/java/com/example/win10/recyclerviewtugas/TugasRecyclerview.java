@@ -10,4 +10,6 @@ public class TugasRecyclerview extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tugas_recyclerview);
     }
+
+
 }
